@@ -4,10 +4,10 @@
 
 Top Deer
 1. Shikanoko
-![Girl with horns revealed from inside a mecha](https://tenor.com/pnsoZVjmlOS.gif)
+![Girl with horns revealed from inside a mecha](https://media1.tenor.com/m/sTY3pY1wOxgAAAAC/deer-anime.gif)
 2. Nokotan
-![Girl dancing](https://tenor.com/uiaxDHehqPO.gif)
+![Girl dancing](https://media1.tenor.com/m/6nTY_T89uv4AAAAC/shikaanime-deer.gif)
 3. Noko Shikanoko
-![Girl bouncing](https://tenor.com/pNMtQRzPfH8.gif)
+![Girl bouncing](https://media1.tenor.com/m/tig4ZbIVwjYAAAAd/shikanoko-shikanoko-nokonoko-koshitantan.gif)
 
 Nice Deer
