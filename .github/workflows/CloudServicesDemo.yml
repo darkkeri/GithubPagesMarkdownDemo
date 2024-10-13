@@ -1,0 +1,14 @@
+name: CloudServicesDemo
+run-name: ${{ github.actor }} just starred your repository ⭐ 
+on: [watch]
+jobs:
+  Repo-Star-Watch-Action:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "The job was automatically triggered by a ${{ github.event_name }} event."
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "This job's status is ${{ job.status }}."
